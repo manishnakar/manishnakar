@@ -7,6 +7,9 @@ I'm Manish Nakar from Mumbai, India. I really enjoy learning languages and  fram
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishnakar)](https://github.com/manishnakar/github-readme-stats)
+
+
 
 - 📫 How to reach me: ...
 @manishnakar
