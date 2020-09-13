@@ -8,7 +8,7 @@ I'm Manish Nakar from Mumbai, India. I really enjoy learning languages and  fram
 - 💬 Ask me about **AWS, Dev-Ops, laravel, react, vue and git**
 
 
-**interesting internet links**
+**Interesting Internet Links**
 - https://ebpf.io/
 
 **Languages and Tools:**  
