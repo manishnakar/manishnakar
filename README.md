@@ -7,7 +7,7 @@ I'm Manish Nakar from Mumbai, India. I really enjoy learning languages and  fram
 
 - 🔭 I’m currently working on flutter.
 - 🌱 I’m currently learning more about Low-code Development Platforms.
-- 💬 Ask me about **AWS, Dev-Ops, laravel, react, vue and git**
+- 💬 Ask me about **AWS, Dev-Ops, laravel, nodejs, react, vue and git**
 
 
 
